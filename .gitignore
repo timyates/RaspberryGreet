@@ -2,3 +2,4 @@
 *.out
 greeting
 *.o
+*.hi
