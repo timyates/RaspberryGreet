@@ -2,8 +2,9 @@ Taken from http://raspberrypiassembly.wordpress.com/2013/04/11/a-simple-greeter-
 
 To compile and run this sample simply type:
 
-    gcc greeting.s
+    as -o greeting.o greeting.s
+    ld -o greeting   greeting.o
 
-This will generate an executable file called `a.out`, so to run it just type:
+This will generate an executable file called `greetin`, so to run it just type:
 
-    ./a.out
+    ./greeting
