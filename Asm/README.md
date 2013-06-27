@@ -1,4 +1,4 @@
-Taken from http://raspberrypiassembly.wordpress.com/2013/04/11/a-simple-greeter-in-asm/
+Based on an original taken from http://raspberrypiassembly.wordpress.com/2013/04/11/a-simple-greeter-in-asm/
 
 To compile and run this sample simply type:
 
