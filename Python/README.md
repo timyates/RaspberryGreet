@@ -6,4 +6,4 @@ For Python 2, change `input` on line 2 to `raw_input`
 
 Simply type:
 
-    python greeting.py
+    python3 greeting.py
