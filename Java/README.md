@@ -37,7 +37,3 @@ To compile `Greeting.java` into `Greeting.class`, and then:
     java Greeting
 
 Will run it.
-
-NOTES:
-
-Assumes Java 6
