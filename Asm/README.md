@@ -5,6 +5,6 @@ To compile and run this sample simply type:
     as -o greeting.o greeting.s
     ld -o greeting   greeting.o
 
-This will generate an executable file called `greetin`, so to run it just type:
+This will generate an executable file called `greeting`, so to run it just type:
 
     ./greeting
