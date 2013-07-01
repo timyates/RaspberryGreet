@@ -3,3 +3,5 @@
 greeting
 *.o
 *.hi
+*.dump
+*.beam
