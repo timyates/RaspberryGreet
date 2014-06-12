@@ -1,6 +1,6 @@
 ## Installing GNU Smalltalk
 
-To install Node.js, simply type:
+To install Smalltalk, simply type:
 
     sudo apt-get install gnu-smalltalk
 
